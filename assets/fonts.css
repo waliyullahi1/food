@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'playfairDisplay';
+    src: url('/assets/fonts/playfairDisplay-Black.ttf') format('truetype'),
+         url('/assets/fonts/playfairDisplay-BlackItalic.ttf') format('truetype');
+  }
+  
